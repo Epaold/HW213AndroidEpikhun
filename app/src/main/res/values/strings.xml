@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW213AndroidEpikhun</string>
+    <string name="chooseStartDate">Дата-время старта задачи:</string>
+    <string name="endtDateCalendar">Дата-время окончания задачи:</string>
+    <string name="btnOK">OK</string>
+
+</resources>
